@@ -26,10 +26,11 @@ SmartWare se adapta a tu perfil para ofrecerte la experiencia más eficiente. In
 ---
 
 ## 📦 2. Instrucciones de Uso
-1.  **EJECUCIÓN:** Haz clic derecho sobre `script.ps1` y selecciona **"Ejecutar con PowerShell"**.
-2.  **PERMISOS:** Requiere privilegios de **Administrador**. Selecciona "Sí" cuando el sistema lo solicite.
-3.  **SEGURIDAD:** Al ser software independiente, Windows podría mostrar un aviso de SmartScreen. Haz clic en *"Más información"* -> *"Ejecutar de todas formas"*.
-4.  **REPORTE:** Al finalizar, busca el archivo `.txt` con los resultados en tu escritorio.
+1.  **DESCARGA:** Ve a la sección de [Releases](tu-link-aqui) y descarga el archivo `SmartWare_v1.3.4.zip`.
+2.  **EXTRACCIÓN:** Descomprime la carpeta en cualquier lugar de tu PC (Escritorio, Documentos, etc.).
+3.  **EJECUCIÓN:** Abre la carpeta y ejecuta el archivo **`Diagnóstico SmartWare.exe`**.
+4.  **PERMISOS:** El programa pedirá privilegios de **Administrador**. Selecciona "Sí" para permitir la lectura de hardware.
+5.  **SEGURIDAD:** Al ser un ejecutable independiente, Windows SmartScreen podría avisar. Haz clic en *"Más información"* -> *"Ejecutar de todas formas"*.
 
 > [!IMPORTANT]
 > En caso de errores, se generará un archivo **SmartWare_Debug.log**. Compartirme este archivo me ayuda muchísimo a mejorar la herramienta.
@@ -48,9 +49,11 @@ Para asegurar que este archivo es la versión original y segura:
 
 ---
 
-## 📧 5. Contacto y Soporte
-¿Dudas con los resultados? ¿Necesitas una optimización completa o asesoría de compra 100% remota?
-* **WhatsApp:** [Contactar aquí](https://wa.link/iqojld)
+## 📧 5. Contacto y Feedback
+¿Tienes dudas con los resultados, sugerencias de mejora o encontraste algún error? ¡Tu feedback es fundamental para seguir aprendiendo y mejorando!
+
+* **Sugerencias y Comentarios:** Puedes abrir un "Issue" aquí mismo en GitHub o contactarme directamente.
+* **WhatsApp:** [Enviar mensaje](https://wa.link/iqojld)
 * **Correo:** cadiazop@gmail.com
 
 **Desarrollado por:** © **BioDevCD** (C. Díaz) - 2026.

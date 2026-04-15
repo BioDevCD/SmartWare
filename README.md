@@ -21,7 +21,8 @@ SmartWare se adapta a tu perfil para ofrecerte la experiencia más eficiente. In
 ## 🔒 Tu tranquilidad es lo primero
 -   **CONTROL TOTAL:** Nada se ejecuta sin validar primero el estrés de tu sistema para evitar bloqueos.
 -   **SIN INSTALACIÓN:** Versiones portables que no ensucian tu registro ni menú de inicio.
--   **LIMPIEZA AUTOMÁTICA:** Al cerrar, el script ejecuta un protocolo que **ELIMINA** todos los temporales. Tu equipo queda limpio, solo con tu reporte en el escritorio.
+-   **LIMPIEZA AUTOMÁTICA:** Al cerrar, el script ejecuta un protocolo que **ELIMINA** los archivos temporales relacionados y herramientas
+ utilizadas. Tu equipo queda limpio, solo con tu reporte en el escritorio.
 
 ---
 

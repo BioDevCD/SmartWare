@@ -45,7 +45,8 @@ Este software es un componente oficial de los servicios de soporte de **SmartWar
 
 ## 🆔 4. Integridad del Archivo (Hash SHA-256)
 Para asegurar que este archivo es la versión original y segura:
-`AE36EC58BC93784E64B09878BC77BCFF7BE733D5D8F341E0C6DE69B481E34638`
+* **SHA-256 (Ejecutable .exe):** `D8EC84E066B01FB2A2064C709C123ED77ED8237B8C5BA201FCD4EA2DEECA3EA1`
+* **SHA-256 (Paquete .zip):** `7B8ABD7A378BFB1521946304E5A45E4839E6B1546E25B04BB0703060A91C8868`
 
 ---
 

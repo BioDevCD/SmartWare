@@ -26,7 +26,7 @@ SmartWare se adapta a tu perfil para ofrecerte la experiencia más eficiente. In
 ---
 
 ## 📦 2. Instrucciones de Uso
-1.  **DESCARGA:** Ve a la sección de [Releases]((https://github.com/BioDevCD/SmartWare/releases/tag/v1.3.4)) y descarga el archivo `SmartWare_v1.3.4.zip`.
+1.  **DESCARGA:** Ve a la sección de [Releases](https://github.com/BioDevCD/SmartWare/releases/tag/v1.3.4) y descarga el archivo `SmartWare_v1.3.4.zip`.
 2.  **EXTRACCIÓN:** Descomprime la carpeta en cualquier lugar de tu PC (Escritorio, Documentos, etc.).
 3.  **EJECUCIÓN:** Abre la carpeta y ejecuta el archivo **`Diagnóstico SmartWare.exe`**.
 4.  **PERMISOS:** El programa pedirá privilegios de **Administrador**. Selecciona "Sí" para permitir la lectura de hardware.

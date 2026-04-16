@@ -60,10 +60,11 @@ Para asegurar que este archivo es la versión original y segura:
 
 ## 📷 6. Imágenes de referencia:
 
-<img width="892" height="660" alt="InterfazXAML2" src="https://github.com/user-attachments/assets/712bff71-36fa-491f-98ab-fdfb6f7cdffb" />
-<img width="893" height="660" alt="InterfazXAML1" src="https://github.com/user-attachments/assets/3ace625c-0e09-4130-b9ca-05004832fbe2" />
-<img width="1194" height="754" alt="ReporteBloc" src="https://github.com/user-attachments/assets/9e6594b8-2170-4590-9fa6-83a9d72ae4c9" />
 <img width="979" height="512" alt="PanelConsola" src="https://github.com/user-attachments/assets/a078681f-b335-4535-84ca-f7dad77b121d" />
+<img width="893" height="660" alt="InterfazXAML1" src="https://github.com/user-attachments/assets/3ace625c-0e09-4130-b9ca-05004832fbe2" />
+<img width="892" height="660" alt="InterfazXAML2" src="https://github.com/user-attachments/assets/712bff71-36fa-491f-98ab-fdfb6f7cdffb" />
+<img width="1194" height="754" alt="ReporteBloc" src="https://github.com/user-attachments/assets/9e6594b8-2170-4590-9fa6-83a9d72ae4c9" />
+
 
 **Desarrollado por:** © **BioDevCD** (C. Díaz) - 2026.
 *SmartWare - Potencia tu Mundo Digital*

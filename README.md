@@ -58,7 +58,7 @@ Para asegurar que este archivo es la versión original y segura:
 * **WhatsApp:** [Enviar mensaje](https://wa.link/iqojld)
 * **Correo:** cadiazop@gmail.com
 
-* Imágenes de referencia:
+## 📷 6. Imágenes de referencia:
 
 <img width="892" height="660" alt="InterfazXAML2" src="https://github.com/user-attachments/assets/712bff71-36fa-491f-98ab-fdfb6f7cdffb" />
 <img width="893" height="660" alt="InterfazXAML1" src="https://github.com/user-attachments/assets/3ace625c-0e09-4130-b9ca-05004832fbe2" />
